@@ -1,0 +1,43 @@
+.top-header { 
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	background-color: #4E2A84;
+}
+
+.form {
+	margin: 0 auto;
+	width: 50%;
+}
+
+h1 { 
+	font-size: 20px; 
+	font-style: bold;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+p {
+	width: 75%;
+	margin: 0 auto;
+	font-style: italic;
+
+}
+
+footer {
+	clear: both;
+	background-color: #4E2A84;
+	position: absolute;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.divImage { 
+	width: 30%; 
+	margin: 0 auto; 
+}
+
+.footerImage {  
+	width: 100%; 
+	margin: 0 auto; 
+}
